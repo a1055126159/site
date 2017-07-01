@@ -1,8 +1,8 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Tommy Chen
-language: en
+title: IDEA&FUTURE
+subtitle: "智慧&分享"
+description: "Share"
+author: ORIGIN
+language: zh
 timezone: UTC
 
 url: https://hexo.io
@@ -14,7 +14,7 @@ new_post_name: :year-:month-:day-:title.md # File name of new posts
 post_asset_folder: true
 per_page: 0
 
-theme: navy
+theme: hexo-theme-material-master
 deploy:
   type: git
   repo: git@github.com:hexojs/hexojs.github.io.git
