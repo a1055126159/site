@@ -1,3 +1,3 @@
 [build]
-  command = "cd themes/material && npm install && cd ../../ && hexo generate"
+  command = "hexo generate"
   publish = "/public"
